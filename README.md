@@ -16,3 +16,9 @@ Welcome to the Currency Converter in C++ repository! This simple C++ program all
 - IND to: USD, PAK, POUND
 - POUND to: USD, PAK, IND
 <br></br>
+
+# Note
+- Ensure to input the correct currency codes (U for USD, P for PAK, I for IND, G for POUND).
+- The program utilizes goto statements for simplicity, although it's generally discouraged in modern C++ programming.
+Thank you for using the Currency Converter! Happy converting! 🌐💱
+
